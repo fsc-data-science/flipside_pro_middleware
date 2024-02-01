@@ -48,3 +48,5 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 pro_charliemarketplace/snowflake-details.json
+private_PRO_creds.txt
+internal_POST_test.R
